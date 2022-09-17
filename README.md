@@ -1,2 +1,2 @@
 # Data-Analytics-Project
-This repository consists projects that I worked on.
+This repository consists of PowerBI projects that I worked on.
